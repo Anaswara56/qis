@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    position: fixed;
+}
+body{
+    background-color: rgb(40, 40, 78);
+}
+
+#b{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 170px;
+    top: 50px;
+}
+#c{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+#c ul li{
+    display: inline-block;
+    margin:0 50px;
+    position: relative;
+    top: -50px;
+    left:450px ;
+}
+#c ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+#c ul li a:hover{
+    border:3px  solid rgb(211, 201, 201) ;
+   
+}
+#c h4{
+    position: relative;
+    left: 100vh;
+    color: white;
+    font-size:19px ;
+    top: -30px;
+}
+#c button{
+    position: relative;
+    left: 15px;
+    color: white;
+    font-size:15px ;
+    top: -35px;
+    padding: 20px;
+    background-color: rgb(47, 128, 221);
+    width: 140px;
+    border-radius: 5px;
+}
+#d h5{
+    color: rgb(31, 114, 223);
+    font-size: 20px;
+    position: relative;
+    top: 290px;
+    left: 175px;
+}
+#d h1{
+    color: white;
+    font-size: 80px;
+    position: relative;
+    top: 360px;
+    left: 170px;
+}
+#d p{
+    color: white;
+    position: relative;
+    top: 390px;
+    left: 170px;
+    font-size: 20px;
+}
+#f{
+    color: white;
+    background-color: rgb(47, 128, 221);
+    font-size: 17px;
+    position: relative;
+    top:420px ;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    left: 170px;
+}
+#e{
+    background: none;
+    color: rgb(47, 128, 221);
+    font-size: 17px;
+    position: relative;
+    top:420px ;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    left: 170px;
+    border-color:rgb(47, 128, 221);
+}
+#g{
+    background-color: rgb(113, 189, 163);
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 125vh;
+    top: 190px;
+}
+#g img{
+    height: 440px;
+    width: 470px;
+    position: relative;
+    left: -390px;
+    top: 20px;
+}
+#h{
+    height: 210px;
+    width: 250px;
+    position: relative;
+    left: 800px;
+    top: 430px;
+    border: 4px solid white;
+    border-radius: 5px;
+}

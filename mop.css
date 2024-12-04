@@ -1,0 +1,182 @@
+img{
+    height: 770px;
+    width: 1380px;
+}
+#a{
+    color:white;
+    text-align: center;
+    position: relative;
+    top:-560px;
+    left: -25px;
+    font-size: 40px;  
+}
+#c{
+    color: rgb(4, 4, 77);
+    
+}
+#b{
+    position: absolute;
+    left: 15%;
+    top:90%;
+}
+button{
+    border: none;
+    background-color: yellow;
+    padding: 10px;
+    font-size: 11px;
+    position: absolute;
+    left: 150%;
+    top: 50%;
+    width: 90px;
+}
+.one{
+    color: blue;
+    border: 1px solid blue;
+    background-color: white;
+    padding: 10px;
+    font-size: 11px;
+    position: absolute;
+    left:170% ;
+    top: 50%;
+}
+
+#d{
+    background:red;
+    height: 300px;
+    color: white;
+    position: relative;
+    top: 190px;
+    
+}
+#e{
+    position: absolute;
+}
+
+#e h1{
+    font-size: 50px;
+    position: relative;
+    left: 210px;
+    top: 50px;
+    
+}
+#e h2{
+    font-size: 20px;
+    position: relative;
+    left: 210px;
+    top: 30px;
+    
+}
+#e h3{
+    font-size: 15px;
+    position: relative;
+    left: 210px;
+    top: 20px;
+    
+}
+#f{
+    position: absolute;
+}
+#f h1{
+    font-size: 50px;
+    position: relative;
+    left: 550px;
+    top: 50px;
+    
+}
+#f h2{
+    font-size: 20px;
+    position: relative;
+    left:550px;
+    top: 30px;
+    
+}
+#f h3{
+    font-size: 15px;
+    position: relative;
+    left: 550px;
+    top: 20px;
+    
+}
+#g{
+    position: absolute;
+}
+#g h1{
+    font-size: 50px;
+    position: relative;
+    left: 950px;
+    top: 50px;
+    
+}
+
+#g h2{
+    font-size: 20px;
+    position: relative;
+    left: 950px;
+    top: 30px;
+    
+}
+#g h3{
+    font-size: 15px;
+    position: relative;
+    left: 950px;
+    top: 20px;
+    
+}
+#h p{
+    position: relative;
+    left: 200px;
+    top: 330px;
+    text-align-last: center;
+    
+}
+#h{
+    position: absolute;
+}
+#h h3{
+    position: relative;
+    left: 350px;
+    top: 320px;
+}
+#h h4{
+    position: relative;
+    left: 360px;
+    top: 300px;
+    font-size: 13px;
+}
+#j{
+    background: red;
+    height: 150px;
+    position: relative;
+    top: 580px;
+}
+
+#k .two{
+    width: 150px;
+    position: relative;
+    top: 60px;
+    left: 470px;
+
+}
+#k .three{
+    background-color: white;
+    width: 150px;
+    position: relative;
+    top: 60px;
+    left: 480px;
+}
+#k .four{
+    background-color: rgb(6, 6, 39);
+    color: white;
+    width: 150px;
+    position: relative;
+    top: 60px;
+    left: 490px;
+
+}
+#i img{
+    width: 300px;
+    height: 270px;
+    position: relative;
+    top: 100px;
+    left: 820px;
+}

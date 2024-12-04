@@ -1,0 +1,227 @@
+a{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+
+#a{
+    height: 98vh;
+    width: 100%;
+    background-image: url(tree.jpeg);
+    background-size:cover ;
+    background-position: center;
+    position: relative;
+}
+
+#b{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
+#b ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 30px;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+#b ul li a{
+    text-decoration: none;
+    color:white;
+   
+}
+#b ul li a:hover{
+    background-color:rgb(255, 123, 0);
+    transition: 0.5s;
+
+}
+#c{
+    font-size: 30px;
+    color: rgb(255, 123, 0);
+    position: absolute;
+    top: 92px;
+    left: 70px;
+   
+    
+}
+#d{
+    color: white;
+    position: absolute;
+    top:62px;
+    left: 950px;
+   
+} 
+#d button{
+    background-color: rgb(255, 123, 0);
+    font-size: 20px;
+    padding: 11px;
+    position: absolute;
+    top: 18px;
+    left: 250px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px; 
+
+
+}
+#d input{
+    font-size: 20px;
+    width: 250px;
+    padding: 10px;
+    background: none;
+    border-color: white;
+    color: white;
+    border-color:rgb(255, 123, 0);
+    
+}
+#e h2{
+    color: white;
+    font-size: 45px;
+    position: absolute;
+    left: 70px;
+    top: 25%;
+}
+#e h1{
+    color: rgb(255, 123, 0);
+    position: absolute;
+    left: 70px;
+    top: 30%;
+    font-size: 70px;
+}
+#e p{
+    color: white;
+    position:absolute;
+    left: 70px;
+    font-size: 20px;
+    top: 52%;
+}
+#e button{
+    font-size: 15px;
+    padding: 15px;
+    width: 180px;
+    background-color:rgb(255, 123, 0);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px; 
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px; 
+    position: absolute;
+    left: 70px;
+    top: 64%;
+}
+#f{
+    background-color: black;
+    height: 500px;
+    width: 340px;
+    position: relative;
+    left: 950px;
+    top: 13%;
+    border-radius: 10px;
+    
+
+}
+#f h1{
+    border: 2px solid white;
+    background-color: white;
+    color: rgb(255, 123, 0);
+    width: 250px;
+    position: absolute;
+    left: 35px;
+    top: 15;
+    border-radius: 15px;
+    text-align: center;
+    padding: 5px;
+}
+#f input{
+    font-size: 20px;
+    position:absolute;
+    top:23%;
+    left: 40px;
+    background:none;
+    border-left:none ;
+    border-top:none ;
+    border-right:none ;
+    border-bottom-color:rgb(255, 123, 0) ;
+    color: white;
+   
+}
+#f #k{
+    font-size: 20px;
+    position:absolute;
+    top:35%;
+    left: 40px;
+    background:none;
+    border-left:none ;
+    border-top:none ;
+    border-right:none ;
+    border-bottom-color:rgb(255, 123, 0) ;
+    color: white;
+   
+}
+#f button{
+    border: 1px solid ;
+    font-size: 20px;
+    height: 50px;
+    width: 250px;
+    padding: 5px;
+    background-color: rgb(255, 123, 0) ;
+    border-radius:15px;
+    position: absolute;
+    top: 50%;
+    left: 35px;
+}
+#f p{
+    position: absolute;
+    top: 60%;
+    left: 90px;
+    color: white;
+}
+#f a{
+    position: absolute;
+    top: 70%;
+    left: 110px;
+    color:rgb(255, 123, 0);
+    text-decoration: none; 
+}
+#f h3{
+    color: white;
+    position: absolute;
+    top: 66%;
+    left: 170px;
+}
+#f h4{
+    color: white;
+    position: absolute;
+    top: 75%;
+    left: 120px;
+}
+#f i{
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    left: 60px;
+    top: 87%;
+}
+#f #g{
+    position: absolute;
+    left: 105px;
+    top: 87%;  
+}
+#f #h{
+    position: absolute;
+    left: 43%;
+    top: 87%;  
+}
+#f #i{
+    position: absolute;
+    left: 55%;
+    top: 87%;  
+}
+#f #j{
+    position: absolute;
+    left: 67%;
+    top: 87%;  
+}

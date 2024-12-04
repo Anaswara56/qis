@@ -1,0 +1,281 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#a{
+    background-color:rgb(59, 58, 58);
+    height: 90px;
+    width: 100%;
+    position: relative;
+}
+#b{
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    top: 30px;
+    left: 150px;
+   
+}
+#c{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+#c ul li{
+    display: inline-block;
+    margin:0 30px;
+    position: relative;
+    top: 0px;
+    left:520px ;
+}
+#c ul li a{
+    text-decoration: none;
+    color: white;
+}
+#c ul li a:hover{
+    border:3px  solid rgb(211, 201, 201) ;
+   
+}
+#d{
+    position: absolute;
+    left:150px;
+    top: 50px;
+}
+#e{
+    background-color:rgba(216, 201, 201, 0.849);
+    height: 390px;
+    width: 100%;
+    position:relative;
+    top: 1px;
+}
+#d button{
+    font-size: 15px;
+    padding: 10px;
+    width: 170px;
+    position: relative;
+    top: 50px;
+    border-radius: 5px;
+    background-color: rgb(224, 114, 10);
+    color: white;
+    border-color:rgb(224, 114, 10); 
+}
+#f{
+    background-color: rgb(20, 20, 20);
+    height: 190px;
+    width: 270px;
+    position: relative;
+    top: 140px;
+    left: 150px;
+}
+#g h1{
+    position: relative;
+    top: -240px;
+    left:-4px;
+}
+#g{
+    position: absolute;
+    top:790px;
+    left: 150px;
+}
+#g button{
+    
+    font-size: 15px;
+    padding: 10px;
+    width: 170px;
+    position: absolute;
+    top: 160px;
+    border-radius: 5px;
+    background-color: rgb(224, 114, 10);
+    color: white;
+    border-color:rgb(224, 114, 10); 
+}
+#h{
+    background-color: rgb(20, 20, 20);
+    height: 190px;
+    width: 270px;
+    position: relative;
+    top: -50px;
+    left: 550px;
+}
+#i{
+    position: absolute;
+    top:920%;
+    left: 550px;
+}
+#i button{
+    
+    font-size: 15px;
+    padding: 10px;
+    width: 170px;
+    position: relative;
+    top: 30px;
+    border-radius: 5px;
+    background-color: rgb(224, 114, 10);
+    color: white;
+    border-color:rgb(224, 114, 10); 
+}
+#j{
+    background-color: rgb(20, 20, 20);
+    height: 190px;
+    width: 270px;
+    position: relative;
+    top: -240px;
+    left: 950px;
+}
+#k{
+    position: absolute;
+    top:920%;
+    left: 950px;
+}
+#k button{
+    
+    font-size: 15px;
+    padding: 10px;
+    width: 170px;
+    position: relative;
+    top: 30px;
+    border-radius: 5px;
+    background-color: rgb(224, 114, 10);
+    color: white;
+    border-color:rgb(224, 114, 10); 
+}
+#l{
+   
+    background-color: rgb(20, 20, 20);
+    height: 530px;
+    width: 100%;
+    position: absolute;
+    top: 110vh;
+    color: white;
+   
+}
+#l h2{
+   position: absolute;
+   left: 150px;
+   top: 90px;
+
+}
+#l h4{
+    border: 1px solid white;
+    width: 40px;
+    background-color: white;
+    color: black;
+    height: 40px;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    top: 150px;
+    padding: 10px;
+    border-radius: 5px;
+
+   
+}
+#m{
+    position: absolute;
+    left: 250px;
+    top: 160px;
+
+}
+#n h4{
+    border: 1px solid white;
+    width: 40px;
+    background-color: white;
+    color: black;
+    height: 40px;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    top: 290px;
+    padding: 10px;
+    border-radius: 5px;
+
+   
+}
+#o{
+    color: white;
+    position: absolute;
+    left: 250px;
+    top: 135vh;
+
+}
+#p h4{
+    border: 1px solid white;
+    width: 40px;
+    background-color: white;
+    color: black;
+    height: 40px;
+    text-align: center;
+    position:relative;
+    left: 150px;
+    top: 330px;
+    padding: 10px;
+    border-radius: 5px;
+
+   
+}
+#q{
+    color: white;
+    position: absolute;
+    left: 250px;
+    top: 145vh;
+
+}
+#r{
+    position: absolute;
+    top: 119.9vh;
+    left: 550px;
+    color: white;
+}
+#s{
+    position: absolute;
+    top: 120vh;
+    left: 96vh;
+    color: white;
+}
+#s h3{
+    position: relative;
+    left: 50px;
+}
+#t{
+   font-size: 30px;
+   position: relative;
+   top: -160px;
+   color: white;
+   background-color: blue;
+   
+}
+#v{
+    font-size: 30px;
+    position: relative;
+    top: -175px;
+    color: white;
+    background-color: rgb(52, 97, 243);
+    
+ }
+ #u{
+    font-size: 30px;
+    position: relative;
+    top: -100px;
+    color: white;
+    background-color:orange;
+    
+ }
+ #w{
+    font-size: 30px;
+    position: relative;
+    top: -115px;
+    color: white;
+    background-color: rgb(168, 55, 14);
+    
+ }
+#x img{
+    height: 250px;
+    width: 550px;
+    position: absolute;
+    top: 150px;
+    left: 670px;
+ }

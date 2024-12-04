@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <style>
+        body{
+            background:linear-gradient(to right,rgb(53, 158, 214),rgb(162, 72, 183)) ;
+        }
+        #one{
+            height: 850px;
+            width: 500px;
+            background-color: white;
+            position: relative;
+            left: 450px;
+            top: 40px;
+            border-radius: 10px;
+            text-align: center;
+            padding: 30px;
+            font-size:25px;
+        }
+        #two{
+            position: absolute;
+            left: 500px;
+            top: 250px;
+            
+        }
+        #two input{
+            padding: 10px;
+            border-top: none;
+            border-left: none;
+            border-right: none;
+            width: 430px;
+
+        }
+        a{
+            text-decoration-line: none;
+            position: absolute;
+            left: 350px;
+            top: 190px;
+            color: black;
+        }
+        button{
+            width: 300px;
+            height: 50px;
+            position: relative;
+            left: -400px;
+            top: 120px;
+            border:none ;
+            border-radius: 30px;
+            color: white;
+            background:linear-gradient(to right,rgb(53, 158, 214),rgb(162, 72, 183));
+        }
+        p{
+            position: absolute;
+            top: 340px;
+            left: 180px;
+        }
+        #three p{
+            position: absolute;
+            top: 390px;
+            left: -190px;
+            text-align: center;
+        }
+        #three h4{
+            position: absolute;
+            top: 420px;
+            left: -150px;
+            text-align: center;
+        }
+        #facebook{
+            color: white;
+            background-color: #161f50;
+            padding: 10px;
+            font-size: 30px;
+            border-radius: 30px;
+            position: absolute;
+            top: 410px;
+            left: 150px;
+
+        }
+        #twitter{
+            color: white;
+            background-color: rgb(33, 96, 213);
+            padding: 10px;
+            font-size: 30px;
+            border-radius: 30px;
+            position: absolute;
+            top: 410px;
+            left: 210px;
+        }
+        #google{
+            color: white;
+            background-color:  rgb(216, 54, 36);
+            padding: 10px;
+            font-size: 30px;
+            border-radius: 30px;
+            position: absolute;
+            top: 410px;
+            left: 270px;
+        }
+
+        .urps{
+            position: relative;
+            top: 2px;
+            left: 14px;
+            z-index: 1;
+        }
+        
+
+    </style>
+</head>
+<body>
+    <div id="one"><h1>Login</h1></div>
+    <div id="two">
+        <label>Username</label><br> <br>
+        <i class='bx bx-user urps'></i>
+        <input type="text" placeholder="Type your username"> <br> <br>
+        <label>Password</label><br> <br>
+        <i class='bx bx-lock urps' ></i>
+        <input type="text" placeholder="Type your password">
+        <a href="cliclk">Forgot password ?</a>   
+        <button>LOGIN</button> 
+        <p>Or Sign Up Using </p> 
+        <i id="facebook" class='bx bxl-facebook'></i> 
+        <i id="twitter" class='bx bxl-twitter'></i>
+        <i id="google" class='bx bxl-google'></i>
+        
+   
+    <div id="three">
+         <a href="cliclk"><p>Have not account yet ?</p></a> <br> <br><br> 
+         <a href="cliclk"><h4>SIGN UP</h4></a>
+    </div>
+    </div>
+</body>
+</html>
